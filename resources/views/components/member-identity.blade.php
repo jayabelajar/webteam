@@ -8,7 +8,7 @@
     <img
         src="{{ $member['avatar'] }}"
         alt="Foto {{ $member['nama'] }}"
-        class="h-12 w-12 rounded-md border border-slate-200 object-cover"
+        class="h-20 w-20 rounded-md border border-slate-200 object-cover"
     >
     <div>
         <p class="text-xs font-medium text-blue-600">Member {{ $member['id'] }}</p>
