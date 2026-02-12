@@ -42,7 +42,7 @@ $teamMembers = [
     ],
     [
         'id' => 2,
-        'nama' => 'Nadia Putri Rahma',
+        'nama' => 'Argeswara P.K',
         'role' => 'Frontend Developer',
         'avatar' => 'https://i.pravatar.cc/160?img=5',
         'domisili' => 'Surabaya',
